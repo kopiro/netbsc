@@ -1,0 +1,204 @@
+
+/****** Sky Blue ******/
+
+.section.section-services.service-layout-2 .service-block-inner:hover,
+.latest-news-text-content .entry-month,
+#content .section-call-to-action.cta-layout-3,
+.btn, 
+.btn:visited,
+ button, 
+.button,
+.btn:hover, 
+button:hover, 
+.button:hover, 
+button:focus, 
+.button:focus, 
+.btn:focus, 
+button:active, 
+.btn:active, 
+.btn, 
+.btn:visited, 
+button, 
+.button, 
+.btn.btn-primary, 
+.btn.btn-primary:visited,
+.btn:hover, 
+button:hover, 
+.button:hover, 
+button:focus, 
+.button:focus, 
+.btn:focus, 
+button:active, 
+.btn:active, 
+.btn.btn-primary:hover, 
+.btn.btn-primary:active, 
+.btn.btn-primary:focus,
+#quick-link-buttons a.btn.cart-button:hover > span,
+#main-slider .cycle-prev:hover,
+#main-slider .cycle-next:hover,
+.contact-map .map-inner-wrapper,
+#main-slider .cycle-pager .cycle-pager-active,
+#footer-widgets .widget-title:after,
+input[type="button"]:hover, 
+input[type="reset"]:hover, 
+input[type="submit"]:hover, 
+input[type="button"]:focus, 
+input[type="reset"]:focus, 
+input[type="submit"]:focus, 
+input[type="button"]:active, 
+input[type="reset"]:active, 
+input[type="submit"]:active,
+input[type="button"], 
+input[type="reset"], 
+input[type="submit"],
+.pagination .nav-links .current, 
+.pagination .nav-links a:hover, 
+.pagination .nav-links a:active, 
+.pagination .nav-links a:focus,
+.entry-thumb .custom-entry-date,
+.portfolio-content a i,
+a.main-logo .fa,
+.section-services .service-block-item a.service-icon,
+.section-post-grid .post-grid-thumb a:before,
+.section-about-feature .about-feature-block-item a.about-feature-icon:hover,
+.faq-section-wrapper a.accordion-section-title::before,
+.section-plan .pricing-plan-recommended .pricing-plan-header::after,
+#main-slider .slider-buttons .btn.btn-secondary:hover,
+.btn.btn-secondary,
+.btn.btn-secondary:hover,
+.latest-news-section-wrapper .slick-prev.slick-arrow, 
+.latest-news-section-wrapper .slick-next.slick-arrow,
+.portfolio-filter a.active,
+.portfolio-filter a:hover,
+#content .section .slick-prev.slick-arrow,
+#content  .section .slick-next.slick-arrow,
+.sidebar .widget-title:after {
+     background: #aa0d24;
+}
+#content .section-title-wrap.text-alignleft .section-title,
+.portfolio-filter a.active, .portfolio-filter a:hover {
+    border-color:#aa0d24;
+}
+.sidebar ul li::before,
+.site-title a span,
+.sidebar  ul li a:hover, 
+.sidebar  ul li a:focus, 
+.sidebar  ul li a:active,
+.portfolio-content h3 a:hover,
+.entry-meta a:hover,
+.entry-meta a:focus,
+.entry-meta a:active,
+.site-title a:hover,
+.site-title a:focus,
+.site-title a:active,
+.section_services .service-item-title a:hover,
+.section_latest_news .latest-news-item .latest-news-title a:hover,
+.main-navigation li > a:hover, 
+.main-navigation li.current-menu-item > a, 
+.main-navigation li.current_page_item > a, 
+.main-navigation li:hover > a,
+.section_plan .plan-icon i,
+a,
+a:visited,
+.entry-title a:hover, 
+.entry-title a:focus, 
+.entry-title a:active,
+.section_plan .plan-text h3,
+input[type="button"]:hover, 
+input[type="reset"]:hover, 
+input[type="submit"]:hover, 
+input[type="button"]:focus, 
+input[type="reset"]:focus, 
+input[type="submit"]:focus, 
+input[type="button"]:active,
+#colophon a:hover, 
+#colophon a:focus, 
+#colophon a:active,
+input[type="reset"]:active, 
+input[type="submit"]:active,
+.section.section-featured-page li:before,
+.section-about-feature .about-feature-block-item a.about-feature-icon,
+.section-teams .team-position,
+.section-counter .counter-icon i,
+#footer-navigation li a:hover,
+#footer-widgets a:hover, 
+#footer-widgets a:active, 
+#footer-widgets a:focus,
+.section-recent-news-events .custom-entry-date span.entry-month,
+h1 a:hover, 
+h2 a:hover, 
+h3 a:hover, 
+h4 a:hover, 
+h5 a:hover, 
+h6 a:hover, 
+h1 a:active, 
+h2 a:active, 
+h3 a:active, 
+h4 a:active, 
+h5 a:active, 
+h6 a:active, 
+h1 a:focus, 
+h2 a:focus, 
+h3 a:focus, 
+h4 a:focus, 
+h5 a:focus,
+h6 a:focus,
+#main-navigation li > a:hover, 
+#main-navigation li.current-menu-item > a, 
+#main-navigation li.current-page-item > a, 
+#main-navigation li:hover > a  {
+    color: #aa0d24;
+}
+
+
+#main-slider .cycle-prev:hover,
+#main-slider .cycle-next:hover,
+.btn.btn-secondary {
+    color: #fff;
+}
+
+
+input.search-submit, 
+input.search-submit:visited,
+input.search-submit:hover, 
+input.search-submit:active, 
+input.search-submit:focus {
+    background: inherit!important;
+    color: #222;
+}
+
+
+#quick-link-buttons a.btn.quick-link-button:hover,
+#quick-link-buttons a.btn.cart-button:hover,
+.site-title span {
+    background-color: inherit;
+    border-color: #aa0d24;
+}
+
+.main-navigation ul li.menu-item-has-children.current-menu-item > a::after, 
+.main-navigation ul li.page-item-has-children.current-menu-item > a::after {
+    border-top-color:#aa0d24;
+}
+
+.portfolio-content a i,
+.entry-thumb .custom-entry-date,
+.pagination .nav-links .current, 
+.pagination .nav-links a:hover, 
+.pagination .nav-links a:active, 
+.pagination .nav-links a:focus,
+#content .section-title-wrap span.divider,
+.section-services .service-block-item a.service-icon:hover,
+.section-about-feature .about-feature-block-item a.about-feature-icon:hover,
+#main-slider .slider-buttons .btn.btn-secondary,
+#main-slider .slider-buttons .btn.btn-secondary:hover,
+.btn.btn-secondary,
+.btn.btn-secondary:hover,
+.portfolio-filter ul li a:hover {
+    border-color: #aa0d24;
+}
+
+#content .section-title-wrap span.divider:before{
+    border-bottom-color:#aa0d24;
+    border-right-color:#aa0d24;
+}
+

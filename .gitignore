@@ -1,0 +1,4 @@
+.env
+vendor
+supervisor.pid
+supervisor.log
