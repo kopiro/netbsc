@@ -1,9 +1,9 @@
-FROM php:7-fpm-alpine
+FROM php:8.3-fpm-alpine3.24
 
 WORKDIR /app
 ENTRYPOINT entrypoint
 
-RUN set -ex && apk update && apk add unzip nano nginx supervisor
+RUN set -ex && apk add --no-cache unzip nano nginx supervisor
 
 RUN mkdir -p /run/nginx
 
